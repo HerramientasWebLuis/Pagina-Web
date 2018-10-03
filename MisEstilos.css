@@ -1,0 +1,119 @@
+* {margin: 0px; padding: 0px;} 
+
+header, section, footer, aside, nav, article, figure, figcaption, hgroup {display: block;} 
+
+body { text-align: center; font-family: Verdana; font-size: 20px; background-color: rgb(246, 224, 181);}
+
+h1 { font-style: italic; font-size: 50px; }
+
+h2 { font-style: italic; font-size: 35px; } 
+
+p.subtitulo { font-size: 25px; font-weight: bold;}
+
+article {background: rgb(145, 225, 234); border: 1px solid #999999; padding: 50px; margin-bottom: 15px; line-height: 2.0em;
+
+display: block;
+width: 960px;
+margin: 30px auto;
+padding: 15px;
+text-align: left;
+border: 1px solid #999999;
+-moz-border-radius: 20px / 10px;
+-webkit-border-radius: 20px / 10px;
+border-radius: 20px / 10px; 
+-moz-box-shadow: rgb(150,150,150) 5px 5px 10px;
+-webkit-box-shadow: rgb(150,150,150) 5px 5px 10px;
+box-shadow: rgb(150,150,150) 5px 5px 10px; } 
+
+#agrupar {width: 960px; margin: 15px auto; text-align: left;  } 
+
+#cabecera {background: rgb(168, 228, 136); border: 1px solid #999999; padding: 20px; text-align: center;
+
+display: block;
+width: 900px;
+margin: 30px auto;
+padding: 15px;
+text-align: center;
+border: 1px solid #999999;
+-moz-border-radius: 20px / 10px;
+-webkit-border-radius: 20px / 10px;
+border-radius: 20px / 10px; 
+-moz-box-shadow: rgb(150,150,150) 5px 5px 10px;
+-webkit-box-shadow: rgb(150,150,150) 5px 5px 10px;
+box-shadow: rgb(150,150,150) 5px 5px 10px; }
+
+#menu {background: rgb(168, 228, 136); padding: 5px 15px; text-align: center;
+
+display: block;
+width: 920px;
+margin: 15px auto;
+padding: 15px;
+border: 1px solid #999999;
+-moz-border-radius: 20px / 10px;
+-webkit-border-radius: 20px / 10px;
+border-radius: 20px / 10px; 
+-moz-box-shadow: rgb(150,150,150) 5px 5px 10px;
+-webkit-box-shadow: rgb(150,150,150) 5px 5px 10px;
+box-shadow: rgb(150,150,150) 5px 5px 10px;  }
+
+#menu li { display: inline-block; list-style: none; padding: 8px; 
+
+background: rgb(145, 225, 234);
+border: 1px solid #999999;
+-moz-border-radius: 20px / 10px;
+-webkit-border-radius: 20px / 10px;
+border-radius: 20px / 10px; 
+-moz-box-shadow: rgb(150,150,150) 5px 5px 10px;
+-webkit-box-shadow: rgb(150,150,150) 5px 5px 10px;
+box-shadow: rgb(150,150,150) 5px 5px 10px;  } 
+ 
+#submenu li { display: table ;} 
+
+#seccion {float: right; width: 680px; margin: 20px; overflow: hidden;
+
+background: rgb(168, 228, 136);
+text-align: center;
+border: 1px solid #999999;
+-moz-border-radius: 20px / 10px;
+-webkit-border-radius: 20px / 10px;
+border-radius: 20px / 10px; 
+-moz-box-shadow: rgb(150,150,150) 5px 5px 10px;
+-webkit-box-shadow: rgb(150,150,150) 5px 5px 10px;
+box-shadow: rgb(150,150,150) 5px 5px 10px;   }
+
+#columna {float: left; width: 180px; margin: 20px 0px; padding: 20px; background: rgb(168, 228, 136);
+
+border: 1px solid #999999;
+-moz-border-radius: 20px / 10px;
+-webkit-border-radius: 20px / 10px;
+border-radius: 20px / 10px; 
+-moz-box-shadow: rgb(150,150,150) 5px 5px 10px;
+-webkit-box-shadow: rgb(150,150,150) 5px 5px 10px;
+box-shadow: rgb(150,150,150) 5px 5px 10px;  } 
+
+#columna li {background: rgb(145, 225, 234); border: 5px solid #999999; margin: 15px auto; padding: 15px; text-align: center; font-weight: bold;
+
+border: 1px solid #999999;
+-moz-border-radius: 20px / 10px;
+-webkit-border-radius: 20px / 10px;
+border-radius: 20px / 10px; 
+-moz-box-shadow: rgb(150,150,150) 5px 5px 10px;
+-webkit-box-shadow: rgb(150,150,150) 5px 5px 10px;
+box-shadow: rgb(150,150,150) 5px 5px 10px;  }
+
+#ListaContacto {float: center; width: 1100px; margin: 40px; padding: 20px; background: rgb(168, 228, 136); text-align: center
+
+border: 1px solid #999999;
+-moz-border-radius: 20px / 10px;
+-webkit-border-radius: 20px / 10px;
+border-radius: 20px / 10px; 
+-moz-box-shadow: rgb(150,150,150) 5px 5px 10px;
+-webkit-box-shadow: rgb(150,150,150) 5px 5px 10px;
+box-shadow: rgb(150,150,150) 5px 5px 10px;  } 
+
+#ListaContacto li { display: inline-block; list-style: none; padding: 15px; } 
+
+#pie {clear: both; padding: 20px; border-top: 2px solid #999999; float: right; display: inline-block; font-weight: bold} 
+
+#pie li { display: inline-block; list-style: none; padding: 15px; } 
+
